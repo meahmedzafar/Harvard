@@ -1,6 +1,6 @@
 **Privacy Policy for Longevity Application**
 
-**Effective Date: [Insert Date]**
+**Effective Date: 22/04/2024**
 
 **Introduction:**
 The Longevity application ("App") is developed by the Harvard University Institute of Longevity ("Organization") and is designed to [briefly describe the purpose of the application, e.g., provide users with tools and information to promote healthy living and longevity]. This Privacy Policy outlines how the Organization collects, uses, maintains, and discloses information collected from users ("User" or "You") of the App.
@@ -30,6 +30,6 @@ By using this App, you signify your acceptance of this policy. If you do not agr
 **Contact Us:**
 If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at drahmedzafar@gmail.com.
 
-**Effective Date:** This Privacy Policy is effective as of 22/04/2022.
+**Effective Date:** This Privacy Policy is effective as of 22/04/2024.
 
-**Last Updated:** 22/04/2022
+**Last Updated:** 22/04/2024
