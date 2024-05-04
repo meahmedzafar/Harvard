@@ -1,0 +1,38 @@
+**Privacy Policy for WatchfulWards**
+
+Effective Date: 05/04/2024
+
+Welcome to WatchfulWards, a mobile application designed for kids above 7 years of age, created by Syed Ahmed Zafar. Your privacy is important to us, and we are committed to protecting the personal information of our users. This Privacy Policy outlines how we collect, use, and disclose information when you use our application.
+
+**1. Information Collection and Use:**
+
+WatchfulWards does not directly collect any personal information from its users. However, please note that our application displays advertisements provided by Google Ads. Google Ads may collect certain information as outlined in its terms and conditions. This information may include but is not limited to:
+
+- Device information such as device type, device ID, and IP address.
+- Usage data such as the duration of app usage, interactions within the app, and performance data.
+
+Please review Google's privacy policy for more information on how they collect, use, and protect your data.
+
+**2. Use of Cookies:**
+
+WatchfulWards does not use cookies or similar tracking technologies to collect any personal information.
+
+**3. Children's Privacy:**
+
+WatchfulWards is designed for kids above 7 years of age. We do not knowingly collect any personal information from children under the age of 13. If you believe that we have inadvertently collected personal information from a child under 13, please contact us immediately, and we will take appropriate steps to delete such information from our servers.
+
+**4. Data Security:**
+
+We take reasonable measures to protect the security of your information. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of your data.
+
+**5. Changes to this Privacy Policy:**
+
+We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy on this page. We encourage you to review this Privacy Policy periodically for any updates.
+
+**6. Contact Us:**
+
+If you have any questions or concerns about this Privacy Policy or our practices regarding your personal information, please contact Syed Ahmed Zafar at drahmedzafar@gmail.com.
+
+By using WatchfulWards, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our application.
+
+Thank you for trusting WatchfulWards to safeguard your privacy.
